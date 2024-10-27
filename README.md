@@ -36,7 +36,7 @@ scoop install python
 choco install python
 ```
 
-##### Alternatively You can install it using a installer. Visit [Python Website](www.python.org)
+##### Alternatively You can install it using a installer. Visit [Python Website](https://www.python.org)
 
 #### 2. Install Colorama Module
 
