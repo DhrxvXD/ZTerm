@@ -45,11 +45,9 @@ pip install colorama
 ```
 
 - Note: You must have pip install
-- You Should get something like the 2nd line
 
 ```pwsh
 pip --version
-pip 24.2 from C:/../../../python3.13/pip (python 3.13)
 ```
 
 You Should get something like this:
